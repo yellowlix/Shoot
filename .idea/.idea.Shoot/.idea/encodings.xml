@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Assets/Editor/Cm.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Fly.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/PropertyPanel.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Bullet/PlayerBullet.cs" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Data/PackageLocalData.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Gobin.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Interactable/WeaponInteractable.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Manager/EnemyManager.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Manager/GameManager.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Manager/LocalConfig.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Manager/PackageManager.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Manager/UIManager.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerProperty.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerTrigger.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerWeapon.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/UI/MainPanel.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/UI/PackageCell.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/UI/PackagePanel.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/UI/SkillCard.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/UI/StartPanel.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/VFX/DashShadow.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Sign.cs" charset="UTF-8" />
+  </component>
+</project>
